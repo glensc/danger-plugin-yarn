@@ -60,6 +60,8 @@ typings/
 # dotenv environment variables file
 .env
 
+/dist/index.test*
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
